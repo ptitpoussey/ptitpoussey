@@ -18,7 +18,7 @@ I am currently a student in computer networks with some knowledge in programming
 https://www.hackthebox.com/universities/university-ctf-2021 >> With team of 4/10 ```177/594```
 
 ## Languages
-![C#](https://img.shields.io/badge/C%23-121011?style=flat&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-121011?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-121011?style=for-the-badge&logo=python&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-121011?style=for-the-badge&logo=html5&logoColor=white)
