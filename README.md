@@ -18,6 +18,6 @@ I am currently a student in computer networks with some knowledge in programming
 https://www.hackthebox.com/universities/university-ctf-2021 >> With team of 4/10 ```177/594```
 
 ### Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=plastic&logo=c-sharp&logoColor=white)
 
 ![snake gif](https://raw.githubusercontent.com/ptitpoussey/ptitpoussey/7720f654f77376001de78470a0a1a770f9f36712/github-contribution-grid-snake.svg)
