@@ -11,7 +11,7 @@ I am currently a student in computer networks with some knowledge in programming
 
 :x: eCPPTv2 (ELearnSecurity Certified Professional Penetration Tester) Certification
 
-:construction: Create my own tool to automate pentest. [:warning: Actually working on it again :warning:]
+:construction: Create my own tool to automate pentest. [:warning: Still working on it :warning:]
 
 
 ## My "Carreer"
