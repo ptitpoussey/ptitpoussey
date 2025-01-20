@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Playzo i'm a freelance Software / Game Engineer.</h2>
+<h2 align="center">Freelance Software / Game developper.</h2>
 
 ###
 
